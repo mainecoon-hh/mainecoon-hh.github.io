@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://www.mainecoon-hh.de/</loc>
+        <loc>https://www.mainecoon-hh.de/</loc>
         <lastmod>2015-05-15T21:18:59.000Z</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>http://www.mainecoon-hh.de/kater.html</loc>
+        <loc>https://www.mainecoon-hh.de/kater.html</loc>
         <lastmod>2015-05-15T21:18:59.000Z</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>http://www.mainecoon-hh.de/katzen.html</loc>
+        <loc>https://www.mainecoon-hh.de/katzen.html</loc>
         <lastmod>2015-05-15T21:18:59.000Z</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>http://www.mainecoon-hh.de/kitten.html</loc>
+        <loc>https://www.mainecoon-hh.de/kitten.html</loc>
         <lastmod>2015-05-15T21:18:59.000Z</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>http://www.mainecoon-hh.de/kontakt.html</loc>
+        <loc>https://www.mainecoon-hh.de/kontakt.html</loc>
         <lastmod>2015-05-15T21:18:59.000Z</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>http://www.mainecoon-hh.de/links.html</loc>
+        <loc>https://www.mainecoon-hh.de/links.html</loc>
         <lastmod>2015-05-15T21:18:59.000Z</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>http://www.mainecoon-hh.de/plaene.html</loc>
+        <loc>https://www.mainecoon-hh.de/plaene.html</loc>
         <lastmod>2015-05-15T21:18:59.000Z</lastmod>
         <changefreq>weekly</changefreq>
     </url>
